@@ -28,6 +28,5 @@ photography period. It doesn't matter if I am shooting film or digital.
 
 - [More About Ralph Hightower](https://ralphhightower.github.io/RalphHightower/)
 - [Azure Resources](https://ralphhightower.github.io/Azure-Resources/)
-- [EOL](https://ralphhightower.github.io/EOL-RalphHightower/)
 - [GM Canada Solution to Cellular CDMA G2 Sunset for OnStar](GM-Canada-Onstar-G2-Sunset)
 - [SpaceShuttleMissionSchedule: Windows application that creates events in the calendar of Microsoft Outlook from NASA Space Shuttle missions schedules](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)
