@@ -1,4 +1,5 @@
-# Ralph Hightower — github.io 
+
+p# Ralph Hightower — github.io 
 
 I freeze time; I photograph. I have 50++ years of computer programming and
 software development; most recently using C# and .Net. Athough I am retired 
@@ -31,4 +32,5 @@ photography period. It doesn't matter if I am shooting film or digital.
 - [Azure Resources](https://ralphhightower.github.io/Azure-Resources/)
 - [GM Canada Solution to Cellular CDMA G2 Sunset for OnStar](GM-Canada-Onstar-G2-Sunset)
 - [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1]
+
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
