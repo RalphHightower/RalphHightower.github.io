@@ -1,11 +1,11 @@
 ---
-title: Ralph Hightower - [Title]
+title: Ralph Hightower - github.io
 ---
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  [Description]
+  Ralph Hightower GitHub Top Level
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
