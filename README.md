@@ -28,7 +28,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | Stack Overflow | [26315139/ralph-hightower](26315139/ralph-hightower) |
 
 - [Ralph Hightower Top Level Repository](https://ralphhightower.github.io/RalphHightower/)
-- [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.md)
+- [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.html)
 - [Azure Resources](https://ralphhightower.github.io/Azure-Resources/)
 - [GM Canada Solution to Cellular CDMA G2 Sunset for OnStar](GM-Canada-Onstar-G2-Sunset)
 - [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1]
