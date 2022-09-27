@@ -30,7 +30,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 - [Ralph Hightower Top Level Repository](https://ralphhightower.github.io/RalphHightower/)
 - [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.html)
 - [Azure Resources](https://ralphhightower.github.io/Azure-Resources/)
-- [GM Canada Solution to Cellular CDMA G2 Sunset for OnStar](GM-Canada-Onstar-G2-Sunset)
+- [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](GM-Canada-Onstar-G2-Sunset)
 - [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1]
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
