@@ -3,6 +3,12 @@ title: Ralph Hightower @ github.io [Root Level — Repositories]
 author:
   name: Ralph Hightower 
   email: ralph.hightower@gmail.com
+  #street_address:
+  city: Chapin
+  state: SC
+  zip_code: 29036
+  country: United States of America
+  #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
   Ralph Hightower GitHub Top Level — Links to Primary Repositories]
 
