@@ -22,7 +22,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | LinkedIn Profile | [RalphHightower](https://www.linkedin.com/in/ralphhightower/)|
 | Photography Portfolio \(Flickr\) | [RalphHightower](https://www.flickr.com/photos/ralphhightower/) |
 | YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
-| GitHub | [RalphHightower](https://github.com/RalphHightower/RalphHightower/edit/main/README.md) |
+| GitHub | [RalphHightower](https://github.com/RalphHightower/RalphHightower/) |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) 
 | Stack Overflow | [26315139/ralph-hightower](26315139/ralph-hightower) |
