@@ -32,6 +32,7 @@ jobs:
         uses: actions/configure-pages@v2.1.1
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
+        uses: "node16"
         with:
           source: ./
           destination: ./_site
