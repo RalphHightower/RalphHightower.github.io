@@ -22,6 +22,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower)
 | GitHub | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) |
 | GitLab | [RalphHightower](https://gitlab.com/RalphHightower) |
+| GitLab | [Permanent Vacations](https://gitlab.com/permanent-vacations) |
 | Google Dev | [RalphHightower](https://g.dev/RalphHightower) |
 | Gravatar | [RalphHightower](http://gravatar.com/ralphhightower) |
 | Hackster.io | [ralph-hightower](https://www.hackster.io/ralph-hightower)
