@@ -40,6 +40,12 @@ photography period. It doesn't matter if I am shooting film or digital.
 | [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1] |
 | [Governments on GitHub](https://government.github.com/community/) |
 
+| [USC — University of South Carolina](https://www.sc.edu) |
+|---|
+| [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
+| [USC Gamecock Sports](https://gamecocksonline.com/) |
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default)
