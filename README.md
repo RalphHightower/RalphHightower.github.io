@@ -47,6 +47,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
 
 {% page.date %}
+{% page.last_modified_at %}
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
 
