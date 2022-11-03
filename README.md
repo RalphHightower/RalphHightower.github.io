@@ -46,7 +46,12 @@ photography period. It doesn't matter if I am shooting film or digital.
 | [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
 
-{{% last-modified-at %}}
+{%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
+{%- if page.last_modified_at -%}
+    Last updated: {%- page.last_modified_at | date: date_format -%}
+{%- else -%}
+    Last updated: {%- page.date | date: date_format -%}
+{%- endif -%}
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
 
