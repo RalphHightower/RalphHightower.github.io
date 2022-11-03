@@ -1,6 +1,6 @@
 ---
 title: Ralph Hightower @ github.io [Root Level — Repositories]
-layout: updated_at
+layout: last-modified-at
 ---
 
 author:
@@ -70,7 +70,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-  - jekyll-last-modified-at
+ - jekyll-last-modified-at
   
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
@@ -80,4 +80,4 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
- 
+  
