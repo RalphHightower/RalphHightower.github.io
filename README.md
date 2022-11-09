@@ -60,6 +60,4 @@ photography period. It doesn't matter if I am shooting film or digital.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5)
 
-<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}Last updated {{ page.last_modified_at | date: "%B %-d, %Y" }}{% endif %}</time>
-
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
