@@ -38,7 +38,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | [Ralph Hightower Top Level Repository](https://ralphhightower.github.io/RalphHightower/) |
 | [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.html) |
 | [Azure Resources](https://ralphhightower.github.io/Azure-Resources/) |
-| [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ |
+| [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) |
 | [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^1] |
 
 | [USC — University of South Carolina](https://www.sc.edu) |
