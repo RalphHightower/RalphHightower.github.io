@@ -31,7 +31,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 | Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
 | Twitter | [RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.) |
-| YouTube | [RalphHightower](https://youtube.com/user/RalphHightower) |
+| YouTube | [RalphHightower](https://www.youtube.com/@RalphHightower) |
 
 | Links |
 |-------|
