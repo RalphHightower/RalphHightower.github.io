@@ -47,14 +47,20 @@ photography period. It doesn't matter if I am shooting film or digital.
 | [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
 
-![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true)
+|   |
+|---|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default)
+|   |   |
+|---|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time&username=RalphHightower&theme=default&utcOffset=-5)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5)
+|   |
+|---|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
+| [![RalphHightower/RalphHightower GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RalphHightower&theme=minimal&custom_title=RalphHightower%20Activity%20(Past%2031%20Days)&repo=RalphHightower/RalphHightower)](https://github.com/RalphHightower/RalphHightower/github-readme-activity-graph) |
 
 [^1]: Support of SpaceShuttleMissionSchedule ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
