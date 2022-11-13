@@ -50,7 +50,7 @@ photography period. It doesn't matter if I am shooting film or digital.
 |   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true) |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=RalphHightower&date_format=%5BY.%5Dn.j&ring=3f99ed&fire=3f99ed&currStreakNum=3f99ed&currStreakLabel=3f99ed) |
 
 |   |   |
 |---|---|
