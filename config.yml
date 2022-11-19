@@ -23,6 +23,7 @@ repository               : "RalphHightower/RalphHightower.github.io" # GitHub us
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -99,67 +100,127 @@ author:
   name             : "Ralph Hightower"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  #location         : "Somewhere"
+  street           : ""
+  city             : "Chapin"
+  state            : "South Carolina"
+  country.         : "US"
   email            : "ralph.hightower@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ralph.hightower@gmail.com"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/RalphHightower"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  url: "https://facebook.com/RalphHightower"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/RalphHightower"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-fw fa-linkedin"
+    #  url: "https://www.linkedin.com/in/ralphhightower/"
+    #- label: "Flickr"
+    #  icon: "fab fa-fw fa-flickr"
+    #  url: "https://www.flickr.com/photos/ralphhightower/"
+    #- label: "Stack Overflow"
+    #  icon: "fab fa-fw fa-stackoverflow"
+    #  url: "https://stackoverflow.com/users/19978043/ralph-hightower"
+    #- label: "YouTube"
+    #  icon: "fab fa-fw fa-youtube"
+    #  url: "https://youtube.com/user/RalphHightower"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/RalphHightower"
+      icon: "fab fa-fw fa-link"
+      url: "https://ralphhightower.github.io/" # RalphHightower 
+    - label: "CodeProject" 
+      icon: "fab fa-fw fa-codeproject"
+      url: "https://www.codeproject.com/Members/RalphHightower) # RalphHightower"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/RalphHightower"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RalphHightower"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ralphhightower/"
+      url: "https://www.facebook.com/members/ralph.hightower/"
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
-      url: "https://www.flickr.com/photos/ralphhightower/"
+      url: "https://www.flickr.com/photos/ralphhightower/" # RalphHightower 
+    - label: "GitHub"
+      icon: "fab fa-fw ga-github"
+      url: "https://ralphhightower.github.io/RalphHightower/" # RalphHightower 
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/RalphHightower/" # RalphHightower
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/permanent-vacations/" # PermanentVacations
+    - label: "Google Dev"
+      icon: ""
+      url: "https://g.dev/RalphHightower/" # RalphHightower 
+    - label: "Hackster.io"
+      icon: "fab fa-fw fa-hackster"
+      url: "https://www.hackster.io/ralph-hightower/" # ralph-hightower 
+    - label: "IEEE Collabratec"
+      icon: "fab fa-fw fa-ieeeicon"
+      url: "https://ieee-collabratec.ieee.org/app/p/RalphHightower/" # RalphHightower 
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ralphhightower/" # RalphHightower
     - label: "Stack Overflow"
-      icon: "fab fa-fw fa-stackoverflow"
-      url: "https://stackoverflow.com/users/19978043/ralph-hightower"
+      icon: "fab fa-fw fa-stackoverflow" # ralph-hightower 
+      url: "https://stackoverflow.com/users/19978043/ralph-hightower/" # ralph-hightower 
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RalphHightower/" # RalphHightower 
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/user/RalphHightower"
+      url: "https://youtube.com/user/RalphHightower/" # RalphHightower 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/RalphHightower"
+    - label: "Website"
+      icon: "fab fa-fw fa-link"
+      url: "https://ralphhightower.github.io/" # RalphHightower 
+    - label: "CodeProject" 
+      icon: "fab fa-fw fa-codeproject"
+      url: "https://www.codeproject.com/Members/RalphHightower) # RalphHightower"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/RalphHightower"
+      url: "https://www.facebook.com/members/ralph.hightower/"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://www.flickr.com/photos/ralphhightower/" # RalphHightower 
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://www.github.com/Ral0hHightower"
+      icon: "fab fa-fw ga-github"
+      url: "https://ralphhightower.github.io/RalphHightower/" # RalphHightower 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://www.gitlab.com/PermanentVacations"
+      url: "https://gitlab.com/RalphHightower/" # RalphHightower
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/permanent-vacations/" # PermanentVacations
+    - label: "Hackster.io"
+      icon: "fab fa-fw fa-hackster"
+      url: "https://www.hackster.io/ralph-hightower/" # ralph-hightower 
+    - label: "IEEE Collabratec"
+      icon: "fab fa-fw fa-ieeeicon"
+      url: "https://ieee-collabratec.ieee.org/app/p/RalphHightower/" # RalphHightower 
     - label: "LinkedIn"
-      icon: "fab fa-fw fab-linkedin"
-      url: "https://www.linkedin.com/in/RalphHightower"
-    - label: "Flickr"
-      icon: "fab fa-fw fab-flickr"
-      url: "https://www.flickr.com/photos/RalphHightower"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-# Reading Files
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ralphhightower/" # RalphHightower
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stackoverflow" # ralph-hightower 
+      url: "https://stackoverflow.com/users/19978043/ralph-hightower/" # ralph-hightower 
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RalphHightower/" # RalphHightower 
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/user/RalphHightower/" # RalphHightower 
 include:
   - .htaccess
   - _pages
@@ -220,7 +281,8 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "America/NewYork" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# Plugins (previously gems:)
+# Reading Files
+## Plugins (previously gems:)
 plugins:
   - jekyll-paginat
   - jekyll-sitemap
