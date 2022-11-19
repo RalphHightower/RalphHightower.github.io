@@ -126,6 +126,12 @@ author:
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
       url: "https://www.flickr.com/photos/ralphhightower/"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stackoverflow"
+      url: "https://stackoverflow.com/users/19978043/ralph-hightower"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/user/RalphHightower"
 # Site Footer
 footer:
   links:
