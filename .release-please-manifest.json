@@ -1,6 +1,1 @@
-{
-  "release-type": "simple",
-  "packages": {
-    ".": {}
-  }
-}
+{".":"1.0.3"}
