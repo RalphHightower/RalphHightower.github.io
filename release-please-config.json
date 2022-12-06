@@ -1,6 +1,2 @@
 {
-  "release-type": "simple",
-  "packages": {
-    ".": {}
-  }
 }
