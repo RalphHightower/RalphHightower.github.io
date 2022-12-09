@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.0.0...v1.1.0) (2022-12-09)
+
+
+### Features
+
+* New Jekyll config file ([8b7df30](https://github.com/RalphHightower/RalphHightower.github.io/commit/8b7df307cae64815a1cce5079c4cc33a1962d333))
+
 ## 1.0.0 (2022-12-06)
 
 
