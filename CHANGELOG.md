@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.0...v1.1.1) (2022-12-11)
+
+
+### Bug Fixes
+
+* graphs in tables ([1c29ddf](https://github.com/RalphHightower/RalphHightower.github.io/commit/1c29ddfdf30093e80648f6b1a060c38da75e1764))
+* header ([fa361c3](https://github.com/RalphHightower/RalphHightower.github.io/commit/fa361c35ff6a3d12b144f2cfa3cfd8db34999fb6))
+
 ## [1.1.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.0.0...v1.1.0) (2022-12-09)
 
 
