@@ -53,6 +53,8 @@ photography period. It doesn't matter if I am shooting film or digital.
 
 ## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/RalphHightower/RalphHightower.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/RalphHightower/RalphHightower.github.io/actions/workflows/jekyll-gh-pages.yml)
+
 |   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true) |
