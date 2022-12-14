@@ -1,3 +1,4 @@
+
 # Ralph Hightower — github.io 
 
 I freeze time; I photograph. I have 50++ years of computer programming and
