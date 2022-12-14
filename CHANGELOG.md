@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.1...v1.1.2) (2022-12-14)
+
+
+### Bug Fixes
+
+* Cleanup w/ unnecessary files. ([58d2f4f](https://github.com/RalphHightower/RalphHightower.github.io/commit/58d2f4f634f215440649d471a29f113dd4ca146a))
+
 ## [1.1.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.0...v1.1.1) (2022-12-11)
 
 
