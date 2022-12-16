@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.2...v1.1.3) (2022-12-14)
+
+
+### Bug Fixes
+
+* Add blank line1 (fix dup headers?) ([e9e6e92](https://github.com/RalphHightower/RalphHightower.github.io/commit/e9e6e9246d2f914c55a15630c89575e9b505b3b5))
+* Update flickr account ([01f9d45](https://github.com/RalphHightower/RalphHightower.github.io/commit/01f9d4539ed5ec24e1b99c87150bf94eee9fce5b))
+
 ## [1.1.2](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.1...v1.1.2) (2022-12-14)
 
 
