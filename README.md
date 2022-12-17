@@ -1,5 +1,4 @@
-
-# Ralph Hightower — github.io 
+Welcome to the Gateway 
 
 I freeze time; I photograph. I have 50++ years of computer programming and
 software development; most recently using C# and .Net. Athough I am retired 
