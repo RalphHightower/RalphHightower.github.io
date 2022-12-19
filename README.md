@@ -1,6 +1,6 @@
 Welcome to My Gateway 
 
-<a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0><br>Create Your Own Visited States Map</a>
+<a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0></a>
 
 I freeze time; I photograph. I have 50++ years of computer programming and
 software development; most recently using C# and .Net. Athough I am retired 
