@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.3...v1.1.4) (2022-12-20)
+
+
+### Bug Fixes
+
+* add https ([9e04453](https://github.com/RalphHightower/RalphHightower.github.io/commit/9e04453a29d80c0cc2a4c50b0bdeaf3f74b6ee36))
+
 ## [1.1.3](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.2...v1.1.3) (2022-12-14)
 
 
