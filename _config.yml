@@ -10,7 +10,7 @@ author:
   country: United States of America
   #phone:
 description: > # this means to ignore newlines until "show_excerpts:"
-  Ralph Hightower GitHub Top Level — Links to Primary Repositories]
+  Ralph Hightower GitHub Top Level — Links to Primary Repositories
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
