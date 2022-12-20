@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.4...v1.1.5) (2022-12-20)
+
+
+### Bug Fixes
+
+* get rid of non-closing bracket ([ed4b37c](https://github.com/RalphHightower/RalphHightower.github.io/commit/ed4b37c0d25e91b7e6ec177a8ac3f5fd282c31a4))
+
 ## [1.1.4](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.3...v1.1.4) (2022-12-20)
 
 
