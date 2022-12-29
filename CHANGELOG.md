@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.5...v1.1.6) (2022-12-29)
+
+
+### Bug Fixes
+
+* change streak stat domain ([1aec1cc](https://github.com/RalphHightower/RalphHightower.github.io/commit/1aec1ccd45aa582d66594b9e24669a8a96d72e1a))
+
 ## [1.1.5](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.4...v1.1.5) (2022-12-20)
 
 
