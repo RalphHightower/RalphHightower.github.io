@@ -2,7 +2,13 @@ Welcome to the Gateway
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0></a>
 
+<hr>
+
 ## [South Carolina's Trial of The Century: A Southern Gothic Tale of Money, Murder, and Mystery. Judgment Day for Alex Murdaugh (Boss Hogg of Hampton County)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/)
+
+## [Unicode Text Formatter](https://www.google.com/url?sa=t&source=web&rct=j&url=https://lingojam.com/BoldTextGenerator&ved=2ahUKEwiA5eDimtf9AhXSM1kFHSNZB6AQFnoECAsQAQ&usg=AOvVaw2xwkyvL32RwGuQzc_rnu2p)
+
+<hr>
 
 I freeze time; I photograph. I have 50++ years of computer programming and
 software development; most recently using C# and .Net. Athough I am retired 
