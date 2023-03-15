@@ -4,8 +4,6 @@ Welcome to the Gateway
 
 <hr>
 
-## [South Carolina's Trial of The Century: A Southern Gothic Tale of Money, Murder, and Mystery. Judgment Day for Alex Murdaugh (Boss Hogg of Hampton County)](https://ralphhightower.github.io/SouthernGothicTaleMoneyMurderMystery/)
-
 ## [Unicode Text Formatter](https://www.google.com/url?sa=t&source=web&rct=j&url=https://lingojam.com/BoldTextGenerator&ved=2ahUKEwiA5eDimtf9AhXSM1kFHSNZB6AQFnoECAsQAQ&usg=AOvVaw2xwkyvL32RwGuQzc_rnu2p)
 
 <hr>
