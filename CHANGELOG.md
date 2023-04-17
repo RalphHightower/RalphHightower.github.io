@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.7](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.6...v1.1.7) (2023-04-17)
+
+
+### Bug Fixes
+
+* hopefully fix layout ([23dfe83](https://github.com/RalphHightower/RalphHightower.github.io/commit/23dfe83b71753655394f81ebda24eb390c1394d5))
+* INTP footnote paragraph break ([8dab1a2](https://github.com/RalphHightower/RalphHightower.github.io/commit/8dab1a2066f544c1df6201d9cb9f07e59c217d45))
+
 ## [1.1.6](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.5...v1.1.6) (2022-12-29)
 
 
