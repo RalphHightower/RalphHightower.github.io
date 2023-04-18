@@ -54,6 +54,8 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) |
 | [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^21] |
 
+[^21]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
+
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|
 | [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
@@ -80,4 +82,3 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RalphHightower&theme=minimal) |
 
-[^21]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
