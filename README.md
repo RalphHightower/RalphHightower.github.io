@@ -43,8 +43,11 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | LinkedIn Profile | **[RalphHightower](https://www.linkedin.com/in/ralphhightower/)** (LinkedIn is where I spend the majority of my time.) |
 | Photography Portfolio \(Flickr\) | **[RalphHightower](https://www.flickr.com/photos/ralphhightower/)** |
 | Stack Overflow | [ralph-hightower](https://stackoverflow.com/users/19978043/ralph-hightower) |
-| Twitter | [RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.) |
+| ~~Twitter~~ | ~~[RalphHightower](https://twitter.com/RalphHightower) (I don't spend much time on Twitter.)~~[^21]|
 | YouTube | [RalphHightower](https://www.youtube.com/@RalphHightower&show_icons)  |
+
+[^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.<br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to hell. 
+
 
 | Links |
 |-------|
@@ -52,9 +55,9 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.html) |
 | [Azure Resources](https://ralphhightower.github.io/Azure-Resources/) |
 | [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) |
-| [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^21] |
+| [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^31] |
 
-[^21]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
+[^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
 
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|
