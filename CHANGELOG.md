@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.7...v1.1.8) (2023-05-07)
+
+
+### Bug Fixes
+
+* corrected fat-fingering of Tahoe footnote ([ff4df7e](https://github.com/RalphHightower/RalphHightower.github.io/commit/ff4df7e72a0139c8b1c10242edc1b379554e0313))
+
 ## [1.1.7](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.6...v1.1.7) (2023-04-17)
 
 
