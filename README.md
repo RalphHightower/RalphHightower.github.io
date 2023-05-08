@@ -8,7 +8,7 @@ Welcome to my Gateway
 
 <hr>
 
-## [About me](https://ralphhightower.github.io/RalphHightower/)
+## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
 
 |  Test/Website | Result |
 |---|---|
