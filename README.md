@@ -68,6 +68,10 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
 
+## [Malfunction Junction Revamp](https://www.scdotcarolinacrossroads.com/)[^41]
+
+[^41]: [South Carolina Department of Transportation](https://www.scdot.org/) DOT prefers that this massive revamp project to minimize the wrecks and traffic jams at the junctions of I-26, I-20, and I-126 be called *"Carolina Crossroads"*.
+
 ## [South Carolina Electric Cooperatives Outages Map](https://outages.ecsc.org/outages/maps)
 
 |   |
