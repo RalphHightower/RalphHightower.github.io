@@ -7,7 +7,7 @@ Welcome to my Gateway
 ## [Unicode Text Formatter](https://lingojam.com/BoldTextGenerator&ved=2ahUKEwiA5eDimtf9AhXSM1kFHSNZB6AQFnoECAsQAQ&usg=AOvVaw2xwkyvL32RwGuQzc_rnu2p)[^51]
 [^51]: Handy website to convert plain text for display in *Italics*, **Bold**, and ***Bold Italics***
 ## [What's that site running? / Netcraft](https://sitereport.netcraft.com/ )[^52]
-[^52]: Very useful tool to get information on websites. I use this for gathering information on websites that SPAM me. **GoDaddy has a strict policy that prohibits domain names registered with them from sending SPAM.** **[Report domains registeredwith GoDaddy](https://supportcenter.godaddy.com/AbuseReport/Index?ci=22420)**. **Shopify also has a strict policy prohibiting by websites that they host.** **[Report an Issue with a Merchant hosted by Shopify.](https://www.shopify.com/legal/report-aup-violation)**
+[^52]: Very useful tool to get information on websites. I use this for gathering information on websites that SPAM me. <br>• **GoDaddy has a strict policy that prohibits domain names registered with them from sending SPAM.** **[Report domains registeredwith GoDaddy](https://supportcenter.godaddy.com/AbuseReport/Index?ci=22420)**. <br>• **Shopify also has a strict policy prohibiting by websites that they host.** **[Report an Issue with a Merchant hosted by Shopify.](https://www.shopify.com/legal/report-aup-violation)**
 
 <hr>
 
