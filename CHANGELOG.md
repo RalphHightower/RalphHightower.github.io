@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.10](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.9...v1.1.10) (2023-05-23)
+
+
+### Bug Fixes
+
+* add Google redirect back ([ea1c673](https://github.com/RalphHightower/RalphHightower.github.io/commit/ea1c6738a604aa5e06b002c57685340306b7566c))
+
 ## [1.1.9](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.8...v1.1.9) (2023-05-23)
 
 
