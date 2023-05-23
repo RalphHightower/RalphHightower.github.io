@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.9](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.8...v1.1.9) (2023-05-23)
+
+
+### Bug Fixes
+
+* English grammar – run-on-words ([b600e9d](https://github.com/RalphHightower/RalphHightower.github.io/commit/b600e9d12fac0e02cf488852d960418d78ba5ec3))
+
 ## [1.1.8](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.7...v1.1.8) (2023-05-07)
 
 
