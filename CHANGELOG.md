@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.11](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.10...v1.1.11) (2023-05-29)
+
+
+### Bug Fixes
+
+* activity graph ([46b3548](https://github.com/RalphHightower/RalphHightower.github.io/commit/46b3548dff4c9d75befc66b965fec57e6658e295))
+
 ## [1.1.10](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.9...v1.1.10) (2023-05-23)
 
 
