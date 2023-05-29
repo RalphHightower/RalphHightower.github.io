@@ -80,7 +80,7 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 |   |
 |---|
 | ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff) |
-| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&ring=73000a&fire=73000a&currStreakNum=7300a&currStreakLabel=73000a&border=true) |
+| ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&ring=73000a&fire=73000a&currStreakNum=7300a&currStreakLabel=73000a&border=true&border_color=73000a) |
 
 |   |   |
 |---|---|
