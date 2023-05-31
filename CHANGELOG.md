@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.12](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.11...v1.1.12) (2023-05-31)
+
+
+### Bug Fixes
+
+* Jekyll build errors? ([41e879d](https://github.com/RalphHightower/RalphHightower.github.io/commit/41e879dac21c26d3165b5243c9da38f3da15772d))
+
 ## [1.1.11](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.10...v1.1.11) (2023-05-29)
 
 
