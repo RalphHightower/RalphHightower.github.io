@@ -20,10 +20,6 @@ timezone: America/New_York
 minima:
   date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
 
-$body-color=73000a
-$link-color=73000a
-$masthead-link-color=fff2e3
-
   # generate social links in footer
   social_links:
     #- { platform: devto,          user_url: "https://dev.to/jekyll" }
