@@ -54,13 +54,14 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 [^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.* <br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
-| Links |
-|-------|
-| [Ralph Hightower Top Level Repository](https://ralphhightower.github.io/RalphHightower/) |
-| [Camera Manuals, Firmware, Software](https://ralphhightower.github.io/RalphHightower/CanonFirmwareSoftware.html) |
-| [Azure Resources](https://ralphhightower.github.io/Azure-Resources/) |
-| [GM Canada Solution to Cellular CDMA 2G Sunset for OnStar](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/) |
-| [SpaceShuttleMissionSchedule: NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/)[^31] |
+|[RalphHightower](https://github.com/RalphHightower/RalphHightower) GitHub Repositories | Description |
+|---|---|
+|[Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
+|[EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/ )|End Of Life information for survivor of Ralph Hightower and/or executors, probate|
+|[GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from NHTSA (US) nhtsa\.gov.|
+|[NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
+|[SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
+|[USCGamecockSandstorm](https://ralphhightower.github.io/USCGamecockSandstorm/ )|Test bed to customize Jekyll minima theme for USC Gamecock Sandstorm|
 
 [^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
 
@@ -69,10 +70,12 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 | [USC — College of Engineering and Computing](https://sc.edu/study/colleges_schools/engineering_and_computing/index.php) |
 | [USC Alumni Association](https://uofscalumni.org/) |
 | [USC Gamecock Sports](https://gamecocksonline.com/) |
-| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm) |
+| [WUSC-FM 90.5 FM](https://garnetgate.sa.sc.edu/organization/wuscfm)[^61] |
 | [Carolina Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/athletic_bands/carolina_band/index.php)  |
 | [University Band](https://sc.edu/study/colleges_schools/music/ensembles/usc_bands/concert_bands/university_band.php) |
 | [Jazz Bands](https://sc.edu/study/colleges_schools/music/ensembles/jazz_ensembles/index.php) |
+
+[^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student. 
 
 ## [Malfunction Junction Revamp](https://www.scdotcarolinacrossroads.com/)[^41]
 
