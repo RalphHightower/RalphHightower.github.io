@@ -57,7 +57,6 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 |[RalphHightower](https://github.com/RalphHightower/RalphHightower) GitHub Repositories | Description |
 |---|---|
 |[Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
-|[EOL-RalphHightower](https://ralphhightower.github.io/EOL-RalphHightower/ )|End Of Life information for survivor of Ralph Hightower and/or executors, probate|
 |[GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from NHTSA (US) nhtsa\.gov.|
 |[NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
 |[SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
