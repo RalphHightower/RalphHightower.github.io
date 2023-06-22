@@ -16,6 +16,8 @@ Welcome to my Gateway
 
 ## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
 
+Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower
+
 |  Test/Website | Result |
 |---|---|
 | [Top Gun Call Sign](http://www.topgunday.com/call-sign-generator/) | Lt. Ralph 'Tahoe' Hightower[^11] |
