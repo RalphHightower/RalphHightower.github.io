@@ -16,7 +16,7 @@ Welcome to my Gateway
 
 ## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
 
-Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower
+[Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
 |  Test/Website | Result |
 |---|---|
