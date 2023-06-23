@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.14](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.13...v1.1.14) (2023-06-23)
+
+
+### Bug Fixes
+
+* change YouTube link to @RalphHightower ([1c99a72](https://github.com/RalphHightower/RalphHightower.github.io/commit/1c99a7257b2d305c03030ea9e6c48e2dfc39bd6d))
+* LinkedIn follow me link ([07a0849](https://github.com/RalphHightower/RalphHightower.github.io/commit/07a084964709e216ed116e92525b16f822a4c33e))
+
 ## [1.1.13](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.12...v1.1.13) (2023-06-11)
 
 
