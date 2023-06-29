@@ -11,12 +11,16 @@ Welcome to my Gateway
 ## [Phone Number Parser Demo for LibPhoneNumber](https://libphonenumber.appspot.com/ )[^53]
 [^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
 ## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
-[^54]: Geolocate IP Addresses and ownership 
+[^54]: Geolocate IP Addresses and ownership .### [GitHub Status](https://www.githubstatus.com/ )
+##m# [GitHub Status](https://www.githubstatus.com/ )[^55]
+[^55]: Status Check of [GitHub](https://www.github.com/)
 <hr>
 
 ## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
 
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
+
+### Personality Tests
 
 |  Test/Website | Result |
 |---|---|
@@ -37,6 +41,8 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 Photography is another creative endeavor that I have enjoyed since 1980. My first camera was the Canon A-1 which was an innovative camera for the 80's, which I still use. I added one of my bucket list cameras in July 2013, a Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added a DSLR, the Canon 5D Mark III with the EF 24-105mm f4L. I enjoy photography period. It doesn't matter if I am shooting film or digital. 
 
+### Personal Web Locations
+
 | Content | Website |
 |---------|---------|
 | CodeProject | [RalphHightower](https://www.codeproject.com/Members/RalphHightower) |
@@ -56,16 +62,21 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 [^21]: As of April 27, 2023, I deactivated my Twitter account based on this Elon Musk tweet:<br>[@ElonMusk](https://twitter.com/elonmusk/status/1651602599345373186): *Anyone making materially false statements on this platform will get Community Noted, including you, me, Tucker, advertisers, head of state, etc. No exceptions. <br>Convince the people and let the chips fall where they may.* <br>@RalphHightower: Seriously? Yet you welcomed back a pathological liar, Donald Trump, who incited and welcomed violence in an attempted coup d'état on January 6 in the storming of the U.S. Capitol. Twitter has gone to ***HELL!***
 
+### Authored Websites 
+
 |[RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
 |---|---|
 |[Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
-|[GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from NHTSA (US) nhtsa\.gov.|
+|[GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
 |[RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Description |
 |[NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
 |[SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
 |[USCGamecockSandstorm](https://ralphhightower.github.io/USCGamecockSandstorm/ )|Test bed to customize Jekyll minima theme for USC Gamecock Sandstorm|
+[RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
 
 [^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
+
+### [USC Gamecocks](https://www.sc.edu/)
 
 | [USC — University of South Carolina](https://www.sc.edu) |
 |---|
