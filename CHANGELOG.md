@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.15](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.14...v1.1.15) (2023-06-29)
+
+
+### Bug Fixes
+
+* Quick Links ([471dbc5](https://github.com/RalphHightower/RalphHightower.github.io/commit/471dbc5c490f479b5dc782dc291dc139a86b92b2))
+
 ## [1.1.14](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.13...v1.1.14) (2023-06-23)
 
 
