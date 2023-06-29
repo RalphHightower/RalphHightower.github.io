@@ -11,9 +11,10 @@ Welcome to my Gateway
 ## [Phone Number Parser Demo for LibPhoneNumber](https://libphonenumber.appspot.com/ )[^53]
 [^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
 ## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
-[^54]: Geolocate IP Addresses and ownership .### [GitHub Status](https://www.githubstatus.com/ )
-##m# [GitHub Status](https://www.githubstatus.com/ )[^55]
+[^54]: Geolocate IP Addresses and ownership.
+## [GitHub Status](https://www.githubstatus.com/ )[^55]
 [^55]: Status Check of [GitHub](https://www.github.com/)
+
 <hr>
 
 ## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
