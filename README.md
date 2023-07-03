@@ -72,7 +72,7 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 |[RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website|
 |[NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
 |[SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
-[RalphHightower/minimaUSCGamecockSandstorm]([https://github.com/RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/)| USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minima](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
+[RalphHightower/minimaUSCGamecockSandstorm](https://ralphhightower.github.io/minimaUSCGamecockSandstorm/)| USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll) / [minima](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
 
 [^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
 
