@@ -69,11 +69,10 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 |---|---|
 |[Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
 |[GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
-|[RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Description |
+|[RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website|
 |[NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
 |[SpaceShuttleMissionSchedule](https://ralphhightower.github.io/SpaceShuttleMissionSchedule/ )[^31]|NASA Space Shuttle Mission Schedule Transfer to Outlook Calendar|
-|[USCGamecockSandstorm](https://ralphhightower.github.io/USCGamecockSandstorm/ )|Test bed to customize Jekyll minima theme for USC Gamecock Sandstorm|
-[RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm ) | USC Gamecock Sandstorm theme derived from Jekyll/minima, a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
+[RalphHightower/minimaUSCGamecockSandstorm](https://github.com/RalphHightower/minimaUSCGamecockSandstorm )| USC Gamecock Sandstorm theme derived from [jekyll](https://github.com/jekyll/jekyll ) / [minima](https://github.com/jekyll/minima), a one-size-fits-all Jekyll theme for USC Gamecock writers. ***(in dev/testing)*** |
 
 [^31]: Support ended with wheelstop of Space Shuttle Atlantis on July 21, 2011 with the end of the Space Shuttle fleet. 
 
