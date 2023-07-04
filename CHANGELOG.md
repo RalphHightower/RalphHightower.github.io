@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.16](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.15...v1.1.16) (2023-07-04)
+
+
+### Bug Fixes
+
+* link to USC Gamecock Sandstorm theme ([59267a1](https://github.com/RalphHightower/RalphHightower.github.io/commit/59267a12d80c54e562f4fc977e2a384fc856c331))
+
 ## [1.1.15](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.14...v1.1.15) (2023-06-29)
 
 
