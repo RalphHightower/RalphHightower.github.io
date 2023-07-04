@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.18](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.17...v1.1.18) (2023-07-04)
+
+
+### Bug Fixes
+
+* USC Gamecock Sandstorm link ([db851e0](https://github.com/RalphHightower/RalphHightower.github.io/commit/db851e022fbfc932594c55940403ad56fcfa0b1a))
+
 ## [1.1.17](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.16...v1.1.17) (2023-07-04)
 
 
