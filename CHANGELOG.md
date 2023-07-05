@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.2.0...v1.3.0) (2023-07-05)
+
+
+### Features
+
+* add skins/minima  ([e0510de](https://github.com/RalphHightower/RalphHightower.github.io/commit/e0510dec5433f425ed2eabd7cc8d08236eaa804b))
+
 ## [1.2.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.18...v1.2.0) (2023-07-05)
 
 
