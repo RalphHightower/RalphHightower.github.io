@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.18...v1.2.0) (2023-07-05)
+
+
+### Features
+
+* RalphHightower/MinimaUSCGamecockSandstorm  ([3a4ff86](https://github.com/RalphHightower/RalphHightower.github.io/commit/3a4ff8691642bbc18129248a7038878732c897dd))
+
 ## [1.1.18](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.1.17...v1.1.18) (2023-07-04)
 
 
