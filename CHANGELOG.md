@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.3.1...v1.3.2) (2023-07-10)
+
+
+### Bug Fixes
+
+* delete unknown character at line 1, column 1 ([b19034c](https://github.com/RalphHightower/RalphHightower.github.io/commit/b19034c5231edd23aff76b46b9740caa309232a8))
+
 ## [1.3.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.3.0...v1.3.1) (2023-07-10)
 
 
