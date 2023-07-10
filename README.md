@@ -41,7 +41,7 @@ I freeze time; I photograph. I have 50++ years of computer programming and softw
 
 Photography is another creative endeavor that I have enjoyed since 1980. My first camera was the Canon A-1 which was an innovative camera for the 80's, which I still use. I added one of my bucket list cameras in July 2013, a Canon F-1N with the AE Finder FN and the AE Motor Drive FN. December 2013, I added a DSLR, the Canon 5D Mark III with the EF 24-105mm f4L. I enjoy photography period. It doesn't matter if I am shooting film or digital. 
 
-### Personal Web Locations
+### Where I Can Be Found 
 
 | Content | Website |
 |---------|---------|
