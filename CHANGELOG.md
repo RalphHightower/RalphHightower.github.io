@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.3.0...v1.3.1) (2023-07-10)
+
+
+### Bug Fixes
+
+* table border color ([9beb2fd](https://github.com/RalphHightower/RalphHightower.github.io/commit/9beb2fd1cabd4b6f73c8572353cfa1f3a3a448d3))
+
 ## [1.3.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.2.0...v1.3.0) (2023-07-05)
 
 
