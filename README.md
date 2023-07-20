@@ -17,7 +17,7 @@ Welcome to my Gateway
 
 <hr>
 
-## Briefly About Me \| [Details About Me](https://ralphhightower.github.io/RalphHightower/)
+## Briefly About Me \| [\[ Details About Me \]](https://ralphhightower.github.io/RalphHightower/)
 
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
