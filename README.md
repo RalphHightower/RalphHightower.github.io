@@ -2,7 +2,7 @@ Welcome to my Gateway
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0></a>
 
-<hr>
+<hr />
 
 ## [Unicode Text Formatter](https://www.google.com/url?sa=t&source=web&rct=j&url=https://lingojam.com/BoldTextGenerator&ved=2ahUKEwiA5eDimtf9AhXSM1kFHSNZB6AQFnoECAsQAQ&usg=AOvVaw2xwkyvL32RwGuQzc_rnu2p)[^51]
 [^51]: Handy website to convert plain text for display in *Italics*, **Bold**, and ***Bold Italics***
@@ -15,7 +15,7 @@ Welcome to my Gateway
 ## [GitHub Status](https://www.githubstatus.com/ )[^55]
 [^55]: Status Check of [GitHub](https://www.github.com/)
 
-<hr>
+<hr />
 
 ## Briefly About Me \| [\[ Details About Me \]](https://ralphhightower.github.io/RalphHightower/)
 
