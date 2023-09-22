@@ -13,6 +13,6 @@ jobs:
           package-name: release-please-action
     #...(same as above)
     #steps:
-    #  - uses: google-github-actions/release-please-action@latest
+    #  - uses: google-github-actions/release-please-action@v3
     #    with:
     #      command: manifest
