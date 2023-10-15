@@ -105,7 +105,7 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 |---|---|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RalphHightower&theme=default) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RalphHightower&theme=default) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RalphHightower&theme=default&utcOffset=-5) |
-&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+
 
 
 |    |
