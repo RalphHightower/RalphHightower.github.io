@@ -31,8 +31,7 @@ jobs:
           user: RalphHightower
           template: markdown
           base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
-          #sandbox: true 
+          config_timezone: America/New_York 
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
