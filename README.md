@@ -12,8 +12,10 @@ Welcome to my Gateway
 [^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
 ## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
 [^54]: Geolocate IP Addresses and ownership.
+## [URL Expander — Unshorten Any Short URL To A Long URL](https://urlex.org/ )[^56]
+[^55]: Get the expanded URL of any shortened URL without clicking on the link.
 ## [GitHub Status](https://www.githubstatus.com/ )[^55]
-[^55]: Status Check of [GitHub](https://www.github.com/)
+[^56]: Status Check of [GitHub](https://www.github.com/)
 
 <hr />
 
