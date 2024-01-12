@@ -55,6 +55,6 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
           plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{secrets.GOOGLE_MAP_TOKEN}}
+          plugin_stargazers_worldmap_token: ${{secrets.GOOGLE_MAPS_TOKEN}}
           plugin_traffic: yes
           repositories_forks: yes
