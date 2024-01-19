@@ -17,6 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          output: RalphHightowerMetrics.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
