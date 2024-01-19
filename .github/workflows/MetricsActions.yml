@@ -1,11 +1,22 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 6,12,18 * * *"}]
+name: metrics:
+  permissions:
+    contents: write
+    pull-requests: write
+  steps:
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: RalphHightowerMetrics.svg
+        output_action: pull-request
+
+    - uses: lowlighter/metrics@latest
+      with:
+        filename: my-metrics-1.svg
+        output_action: pull-request-merge
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main", "_staging", "master"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
