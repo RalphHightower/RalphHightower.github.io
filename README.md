@@ -19,6 +19,14 @@ Welcome to my Gateway
 
 <hr />
 
+## Rare Celestial Event
+
+| [Rare star explosion will be visible for a week • Earth\.com](https://www.earth.com/news/rare-star-explosion-will-be-visible-for-a-week/ ) | Visibility | Location |
+|---|---|--|
+| Star explosion in the Corona Borealis constellation<br /><br />This event, set to occur this year, will see T CrB lighting up the Corona Borealis constellation, shining as brightly as the famed North Star, Polaris, for approximately one week.<br /><br />The exact timing of this stellar spectacle remains uncertain, with NASA forecasting its occurrence sometime between now and September. T CrB is nestled within the Corona Borealis constellation, lying in a semicircular pattern between the Bootes and Hercules constellations. | 2024-03-16 (now) — 2024-09 (September) | Corona Borealis constellation, lying in a semicircular pattern between the Bootes and Hercules constellations |
+
+<hr />
+
 ## Briefly About Me \| [\[ Details About Me \]](https://ralphhightower.github.io/RalphHightower/)
 
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
