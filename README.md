@@ -99,6 +99,8 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 [^61]: WUSC-FM was an AM Radio 📻 broadcast station when I was a student. 
 
+## [NOAA / NWS Space Weather Prediction Center](https://www.spaceweather.gov/homepage )
+
 ## [Malfunction Junction Revamp](https://www.scdotcarolinacrossroads.com/)[^41]
 
 [^41]: [South Carolina Department of Transportation](https://www.scdot.org/) DOT prefers that this massive revamp project to minimize the wrecks and traffic jams at the junctions of I-26, I-20, and I-126 be called *"Carolina Crossroads"*.
