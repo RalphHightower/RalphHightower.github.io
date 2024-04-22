@@ -21,9 +21,6 @@ Welcome to my Gateway
 
 <details><summary>Rare Celestial Event Until September 2024 Expand / Collapse</summary>
 
-
-## Rare Celestial Event
-
 <img src="images/FindHercules_NSN896.jpg" alt="A conceptual image of how to find Hercules and his mighty globular clusters in the sky created using a planetarium software. Look up after sunset during summer months to find Hercules! Scan between Vega and Arcturus, near the distinct pattern of Corona Borealis. Once you find its stars, use binoculars or a telescope to hunt down the globular clusters M13 and M92. If you enjoy your views of these globular clusters, you’re in luck – look for another great globular, M3, in the nearby constellation of Boötes.
 Credit: NASA" />
 <p>A conceptual image of how to find Hercules and his mighty globular clusters in the sky created using a planetarium software. Look up after sunset during summer months to find Hercules! Scan between Vega and Arcturus, near the distinct pattern of Corona Borealis. Once you find its stars, use binoculars or a telescope to hunt down the globular clusters M13 and M92. If you enjoy your views of these globular clusters, you’re in luck – look for another great globular, M3, in the nearby constellation of Boötes.
