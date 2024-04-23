@@ -19,7 +19,7 @@ Welcome to my Gateway
 
 <hr />
 
-<details markdown='1'><summary >Stellar Explosion Visible Until September 2024: Expand/ Collapse</summary>
+<details markdown='1'><summary >Expand/Collapse: Stellar Explosion Visible Until September 2024</summary>
 
 ## Stellar Explosion 
 
