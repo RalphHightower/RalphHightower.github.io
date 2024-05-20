@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.0.0 (2024-05-20)
+
+
+### Features
+
+* add skins/minima  ([e0510de](https://github.com/RalphHightower/RalphHightower.github.io/commit/e0510dec5433f425ed2eabd7cc8d08236eaa804b))
+* RalphHightower/MinimaUSCGamecockSandstorm  ([3a4ff86](https://github.com/RalphHightower/RalphHightower.github.io/commit/3a4ff8691642bbc18129248a7038878732c897dd))
+* RalphHightower/minimaUSCGamecockSandstorm - Production Ready ([f786319](https://github.com/RalphHightower/RalphHightower.github.io/commit/f7863198a6d2c2d9856f959adee59977435d3228))
+
+
+### Bug Fixes
+
+* activity graph ([46b3548](https://github.com/RalphHightower/RalphHightower.github.io/commit/46b3548dff4c9d75befc66b965fec57e6658e295))
+* add Google redirect back ([ea1c673](https://github.com/RalphHightower/RalphHightower.github.io/commit/ea1c6738a604aa5e06b002c57685340306b7566c))
+* change YouTube link to @RalphHightower ([1c99a72](https://github.com/RalphHightower/RalphHightower.github.io/commit/1c99a7257b2d305c03030ea9e6c48e2dfc39bd6d))
+* corrected fat-fingering of Tahoe footnote ([ff4df7e](https://github.com/RalphHightower/RalphHightower.github.io/commit/ff4df7e72a0139c8b1c10242edc1b379554e0313))
+* delete unknown character at line 1, column 1 ([b19034c](https://github.com/RalphHightower/RalphHightower.github.io/commit/b19034c5231edd23aff76b46b9740caa309232a8))
+* deleted spurious characters forcing another column ([b2b3c6a](https://github.com/RalphHightower/RalphHightower.github.io/commit/b2b3c6a175c1353e189e7ebb6a57b4504d1bd5b0))
+* English grammar – run-on-words ([b600e9d](https://github.com/RalphHightower/RalphHightower.github.io/commit/b600e9d12fac0e02cf488852d960418d78ba5ec3))
+* GitHub ([c73b5b9](https://github.com/RalphHightower/RalphHightower.github.io/commit/c73b5b90c9d1f750df3f0d3c5102fe2911eb0e5a))
+* Jekyll build errors? ([41e879d](https://github.com/RalphHightower/RalphHightower.github.io/commit/41e879dac21c26d3165b5243c9da38f3da15772d))
+* link to USC Gamecock Sandstorm theme ([1d6941c](https://github.com/RalphHightower/RalphHightower.github.io/commit/1d6941c58bd4c2bb2b9a709b9f91e456afe69772))
+* link to USC Gamecock Sandstorm theme ([59267a1](https://github.com/RalphHightower/RalphHightower.github.io/commit/59267a12d80c54e562f4fc977e2a384fc856c331))
+* LinkedIn follow me link ([07a0849](https://github.com/RalphHightower/RalphHightower.github.io/commit/07a084964709e216ed116e92525b16f822a4c33e))
+* Quick Links ([471dbc5](https://github.com/RalphHightower/RalphHightower.github.io/commit/471dbc5c490f479b5dc782dc291dc139a86b92b2))
+* table border color ([9beb2fd](https://github.com/RalphHightower/RalphHightower.github.io/commit/9beb2fd1cabd4b6f73c8572353cfa1f3a3a448d3))
+* table border color ([2ea5ac6](https://github.com/RalphHightower/RalphHightower.github.io/commit/2ea5ac601db844dc0d506b68156689300726ca69))
+* USC Gamecock Sandstorm link ([db851e0](https://github.com/RalphHightower/RalphHightower.github.io/commit/db851e022fbfc932594c55940403ad56fcfa0b1a))
+
 ## [1.4.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.4.0...v1.4.1) (2023-07-20)
 
 
