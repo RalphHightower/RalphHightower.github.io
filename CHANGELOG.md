@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.4.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.3.0...v1.4.0) (2024-05-28)
+
+
+### Features
+
+* RalphHightower/minimaUSCGamecockSandstorm - Production Ready ([f786319](https://github.com/RalphHightower/RalphHightower.github.io/commit/f7863198a6d2c2d9856f959adee59977435d3228))
+
+
+### Bug Fixes
+
+* delete unknown character at line 1, column 1 ([b19034c](https://github.com/RalphHightower/RalphHightower.github.io/commit/b19034c5231edd23aff76b46b9740caa309232a8))
+* deleted spurious characters forcing another column ([b2b3c6a](https://github.com/RalphHightower/RalphHightower.github.io/commit/b2b3c6a175c1353e189e7ebb6a57b4504d1bd5b0))
+* table border color ([9beb2fd](https://github.com/RalphHightower/RalphHightower.github.io/commit/9beb2fd1cabd4b6f73c8572353cfa1f3a3a448d3))
+* table border color ([2ea5ac6](https://github.com/RalphHightower/RalphHightower.github.io/commit/2ea5ac601db844dc0d506b68156689300726ca69))
+
 ## [1.3.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.2.0...v1.3.0) (2024-05-28)
 
 
