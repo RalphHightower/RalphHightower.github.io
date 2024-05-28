@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.4.0...v1.4.1) (2024-05-28)
+
+
+### Bug Fixes
+
+* deleted spurious characters forcing another column ([b2b3c6a](https://github.com/RalphHightower/RalphHightower.github.io/commit/b2b3c6a175c1353e189e7ebb6a57b4504d1bd5b0))
+
 ## [1.4.0](https://github.com/RalphHightower/RalphHightower.github.io/compare/v1.3.0...v1.4.0) (2024-05-28)
 
 
