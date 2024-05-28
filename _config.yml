@@ -45,6 +45,19 @@ social_links:
 # - about.md
 # Build settings
 theme: minima
-plugins:
- - jekyll-feed
- - jekyll-seo-tag# generate social links in footer
+
+ plugins:
+ - "jekyll-feed"
+ - "jekyll-seo-tag"
+ - "jekyll-last-modified-at"
+ - "jekyll-titles-from-headings"
+
+# 2024-05-06 This looks like the right settings where Jekyll won't display two H1s.
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+  
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%Y-%m-%d %I:%M:%S.%L %p %Z' #'%d-%b-%y'
