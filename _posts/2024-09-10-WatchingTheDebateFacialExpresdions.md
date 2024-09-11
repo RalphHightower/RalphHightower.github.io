@@ -7,7 +7,7 @@ categories: [debate, election]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Watching the Debate"
+title: 'Watching the Debate'
 ---
 # Watching the Debate — Differences in Facial Expressions
 
