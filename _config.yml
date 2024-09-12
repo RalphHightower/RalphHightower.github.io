@@ -17,7 +17,7 @@ description: > # This means to ignore newlines until "show_excerpts:"
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-repository: "RalphHightower/RalphHightower"
+repository: "RalphHightower/ralphhightower.githup.io"
 
 plugins:
     - jekyll
