@@ -11,7 +11,7 @@
   },
   "bin": {},
   "bugs": {
-    "url": "https://ralphhightower.github.com/RalphHightower/issues"
+    "url": "https://github.com/RalphHightower/RalphHightower.github.io/issues"    
   },
   "contributors": [
     "ralph.hightower@gmail.com"
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@semantic-release/github": "github:semantic-release/github",
-    "RalphHightower": "github:RalphHightower/RalphHightower"
+    "RalphHightower": "github:RalphHightower/Ralphhightower.github.io"
   },
   "engines": {
     "node": ">=20.8.1"
@@ -29,7 +29,7 @@
   "files": [
     "cli.js"
   ],
-  "homepage": "https://ralphhightower.github.io/RalphHightower",
+  "homepage": "https://ralphhightower.github.io/",
   "keywords": [
     "author",
     "automation",
@@ -60,7 +60,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RalphHightower/RalphHightower.git"
+    "url": "git+https://github.com/RalphHightower/Ralphhightower.github.io.git"
   },
   "config": {
     "commitizen": {
