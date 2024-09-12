@@ -7,7 +7,7 @@ date: 2019-06-25 13:14:15
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Watching the Debate"
+title: 'Watching the Debate'
 ---
 # Watching the Debate — Differences in Facial Expressions
 
