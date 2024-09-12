@@ -2,7 +2,7 @@
 layout: post
 tags: [terrorists, al-Qaeda, United States of America]
 categories: [terrorist attacks, remembrance]
-date: 2019-06-25 13:14:15
+date: 2024-09-11
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
