@@ -1,4 +1,4 @@
-name: Release. Copied from docs/recipes/ci-configurations/github-actions.md)
+name: release.yml — Copied from docs/recipes/ci-configurations/github-actions.md)
 on:
   push:
     branches: ["main", "_staging", "next", "master"]
