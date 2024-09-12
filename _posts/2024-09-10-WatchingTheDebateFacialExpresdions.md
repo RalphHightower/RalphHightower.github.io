@@ -2,7 +2,7 @@
 layout: post
 tags: [debate, presidential election,  Kamala Harris,  Donald Trump]
 categories: [debate, election]
-date: 2019-06-25 13:14:15
+date: 2024-09-10
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
