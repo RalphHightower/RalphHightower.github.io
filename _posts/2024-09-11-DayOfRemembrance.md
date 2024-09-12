@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [terroris, al-Qaeda, United States of America]
+tags: [terrorists, al-Qaeda, United States of America]
 categories: [terrorist attacks, remembrance]
 date: 2019-06-25 13:14:15
 #excerpt: ''
