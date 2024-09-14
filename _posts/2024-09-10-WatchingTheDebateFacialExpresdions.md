@@ -1,13 +1,13 @@
 ---
 layout: post
-tags: [debate, presidential election,  Kamala Harris,  Donald Trump]
-categories: [debate, election]
-date: 2024-09-10
+tags: [debate, 2024, election, presidential election,  Kamala Harris, Donald Trump]
+categories: [election, 2024, president]
+date: 2019-06-25 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'Watching the Debate'
+title: 'Watching the Debate"
 ---
 # Watching the Debate — Differences in Facial Expressions
 
