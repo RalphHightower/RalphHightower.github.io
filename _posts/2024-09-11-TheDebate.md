@@ -7,7 +7,7 @@ categories: [politics, election, 2024]
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'title'
+title: 'The Debate: Prosecutorial Logic Versus Toddler Gibberish'
 ---
 
 # The Debate: Prosecutorial Logic versus Toddler Gibberish[^11]

@@ -5,7 +5,7 @@ categories: [politics, quid pro quo, transaction]
 #date: 2024-09-08 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-description: Donald Trump could turn Elon Musk into an American oligarch
+description: 'Donald Trump could turn Elon Musk into an American oligarch'
 #permalink:
 title: 'America Don't Need No Skinking Oligarch'
 ---

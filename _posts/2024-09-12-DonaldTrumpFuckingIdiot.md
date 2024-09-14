@@ -5,10 +5,11 @@ categories: [election, 2024, president]
 date: 9/12/24 12:58 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+description: 'Trump Doesn't Know What the Hell He’s Doing'
 #permalink:
 title: 'Donald Trump is a Fucking Idiot'
 ---
+
 I initially started out putting my opinions of Trump on this page, [Opinions/Donald Trump Is a Fucking Idiot / Ralph Hightower](https://ralphhightower.github.io/RalphHightower/Opinions/DonaldTrumpIsAFuckingIdiot.html).
 
 But it has become too unwieldy to keep it updated, so I switched to the blogging format. 
