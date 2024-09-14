@@ -21,7 +21,6 @@ repository: "RalphHightower/ralphhightower.githup.io"
 
 plugins:
     - jekyll
-    - github-pages
 #    - jekyll-avatar
 #    - jekyll-coffeescript
 #    - jekyll-github-metadata
