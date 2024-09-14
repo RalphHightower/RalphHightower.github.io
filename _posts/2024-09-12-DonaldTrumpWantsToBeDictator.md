@@ -5,7 +5,7 @@ categories: [media, press]
 #date: 2019-06-25 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+description: 'Donald Wants to be King/Dictator for Life'
 #permalink:
 title: 'Trump Really Wants to be Dictator'
 ---

@@ -5,9 +5,9 @@ categories: [election, 2024, president]
 date: 2019-06-25 13:14:15
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-#description:
+description: 'Assessment of the Debate'
 #permalink:
-title: 'Watching the Debate"
+title: 'Watching the Debate'
 ---
 # Watching the Debate — Differences in Facial Expressions
 
