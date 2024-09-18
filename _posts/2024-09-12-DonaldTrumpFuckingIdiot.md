@@ -5,7 +5,7 @@ categories: [election, 2024, president]
 date: 9/12/24 12:58 AM
 #excerpt: ''
 #image: 'BASEURL/assets/blog/img/.png'
-description: 'Trump Doesn't Know What the Hell He’s Doing'
+description: "Trump Doesn't Know What the Hell He's Doing"
 #permalink:
 title: 'Donald Trump is a Fucking Idiot'
 ---
