@@ -7,7 +7,7 @@ categories: [politics, quid pro quo, transaction]
 #image: 'BASEURL/assets/blog/img/.png'
 description: 'Donald Trump could turn Elon Musk into an American oligarch'
 #permalink:
-title: 'America Don't Need No Skinking Oligarch'
+title: "America Don't Need No Skinking Oligarch"
 ---
 
 # [Donald Trump Could Turn Elon Musk into an American Oligarch](https://www.politico.com/news/2024/09/07/trump-elon-musk-government-position-00177845)
