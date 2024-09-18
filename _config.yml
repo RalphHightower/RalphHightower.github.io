@@ -1,4 +1,4 @@
-title: Ralph Hightower @ github.io [Gateway — Website]
+title: Ralph Hightower
 
 author:
   name: Ralph Hightower
@@ -17,10 +17,11 @@ description: > # This means to ignore newlines until "show_excerpts:"
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-repository: "RalphHightower/ralphhightower.githup.io"
+repository: "RalphHightower/RalphHightower"
 
 plugins:
     - jekyll
+    - github-pages
 #    - jekyll-avatar
 #    - jekyll-coffeescript
 #    - jekyll-github-metadata
