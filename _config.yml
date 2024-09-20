@@ -17,7 +17,8 @@ description: > # This means to ignore newlines until "show_excerpts:"
   (launch and landing) w/ Final Four.
 show_excerpts: true # set to true to show excerpts on the homepage
 
-repository: "RalphHightower/RalphHightower"
+repository: "RalphHightower/ralphhightower.github.io/"
+url: "https://ralphhightower.github.io/"
 
 plugins:
     - jekyll
@@ -42,7 +43,7 @@ plugins:
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%Y-%m-%d %I:%M:%S.%L %p %Z" # "%b %-d, %Y"
+  date_format: "%F %r" # "%b %-d, %Y"
   # generate social links in the footer
 social_links:
     - { platform: devto,          user_url: "https://dev.to/RalphHightower"}
