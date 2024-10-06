@@ -88,6 +88,7 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 |[RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
 |---|---|
+| [Ralph Hightower/Blog](https://ralphhightower.github.io/blog/) | My personal blog; currently anti-Trump. Hopefully, *"The Apprentice: White House"* won't get renewed. |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website|
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
 | [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
