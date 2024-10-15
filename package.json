@@ -11,13 +11,14 @@
   },
   "bin": {},
   "bugs": {
-    "url": "https://github.com/RalphHightower/RalphHightower.github.io/issues"    
+    "url": "https://github.com/RalphHightower/RalphHightower.github.io/issues"
   },
   "contributors": [
     "ralph.hightower@gmail.com"
   ],
   "dependencies": {
-    "npm": "^10.8.1"
+    "install": "^0.13.0",
+    "npm": "^10.9.0"
   },
   "devDependencies": {
     "@semantic-release/github": "github:semantic-release/github",
