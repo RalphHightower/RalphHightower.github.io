@@ -31,5 +31,5 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_GITHUB_ACCESS_TOKEN }} # was NPM_TOKEN 2024-11-05 @@RalphHightower 
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }} # was NPM_TOKEN 2024-11-05 @@RalphHightower 
         run: npx semantic-release
