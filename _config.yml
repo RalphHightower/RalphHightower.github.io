@@ -15,6 +15,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+repository: 'RalphHightower/RalphHightower.github.io'
+url: 'https://ralphhightower.github.io/'
+
 timezone: 'America/New_York'
 
 # Build settings
