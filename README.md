@@ -1,3 +1,6 @@
+---
+layout: base
+---
 **Welcome to my Gateway**
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0></a>
