@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-**Welcome to my Gateway**
+# Welcome to my Gateway Portal
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV&w=ml"><img src="https://map1.maploco.com/visited-states/ml/AL-AR-DC-DE-FL-GA-IA-IL-IN-KS-KY-LA-MD-MI-MN-MO-MS-NC-NE-OH-PA-RI-SC-TN-VA-WI-WV.png" border=0></a>
 
@@ -22,27 +22,7 @@ layout: base
 
 <hr />
 
-<details markdown='1'><summary >Expand/Collapse: Stellar Explosion Visible Until September 2024</summary>
-
-## Stellar Explosion 
-
-<img src="images/FindHercules_NSN896.jpg" a alt="A conceptual image of how to find Hercules and his mighty globular clusters in the sky created using a planetarium software. Look up after sunset during summer months to find Hercules! Scan between Vega and Arcturus, near the distinct pattern of Corona Borealis. Once you find its stars, use binoculars or a telescope to hunt down the globular clusters M13 and M92. If you enjoy your views of these globular clusters, you’re in luck – look for another great globular, M3, in the nearby constellation of Boötes. Credit: NASA" />
-
-<p>A conceptual image of how to find Hercules and his mighty globular clusters in the sky created using a planetarium software. Look up after sunset during summer months to find Hercules! Scan between Vega and Arcturus, near the distinct pattern of Corona Borealis. Once you find its stars, use binoculars or a telescope to hunt down the globular clusters M13 and M92. If you enjoy your views of these globular clusters, you’re in luck – look for another great globular, M3, in the nearby constellation of Boötes.<br />Credit: NASA</p>
-<p /><img src="images/TCrB1.png" />
-<p /><img src="images/TCrB-2AM-April15-SE.png" />
-
-| Stellar Explosion | Visibility | Location |
-|---|---|---|
-| • **[A Giant Explosion in Space Will Happen This Year, And You Can See It : ScienceAlert](https://www.sciencealert.com/a-giant-explosion-in-space-will-happen-this-year-and-you-can-see-it )** (08 April 2024)<br />• **[Astrophysicist explains science behind once-in-a-lifetime nova outburst that will light up the sky this year](https://phys.org/news/2024-03-astrophysicist-science-lifetime-nova-outburst.html )** (MARCH 19, 2024)<br />• **[Once-in-a-Lifetime Viewing Opportunity: Nova Explosion, ‘New’ Star in Northern Crown](https://scitechdaily.com/once-in-a-lifetime-viewing-opportunity-nova-explosion-new-star-in-northern-crown/ )** (FEBRUARY 28, 2024)<br />• **[NASA — View Nova Explosion, ‘New’ Star in Northern Crown – Watch the Skies](https://blogs.nasa.gov/Watch_the_Skies/2024/02/27/view-nova-explosion-new-star-in-northern-crown/ )** (February 27, 2024) | 2024-03-16 (now) — 2024-09 (September) 
-| Corona Borealis constellation, lying in a semicircular pattern between the Bootes and Hercules constellations  |
-| Star explosion in the Corona Borealis constellation<br /><br />This event, set to occur this year, will see T CrB lighting up the Corona Borealis constellation, shining as brightly as the famed North Star, Polaris, for approximately one week.<br /><br />The exact timing of this stellar spectacle remains uncertain, with NASA forecasting its occurrence sometime between now and September. T CrB is nestled within the Corona Borealis constellation, lying in a semicircular pattern between the Bootes and Hercules constellations. | | |
-
-</details>
-
-<br />
-
-## Briefly About Me \| [\[ Details About Me \]](https://ralphhightower.github.io/RalphHightower/) \| [\[ Ralph Hightower/blog \]](https://ralphhightower.github.io/blog/)
+## Gateway \| [\[ RalphHightower/RalphHightower – Primary Website \]](https://ralphhightower.github.io/RalphHightower/) \| [\[ Ralph Hightower/blog \]](https://ralphhightower.github.io/blog/)
 
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
