@@ -7,7 +7,8 @@ layout: base
 
 <hr />
 
-## [Unicode Text Formatter](https://lingojam.com/BoldTextGenerator)[^51]
+## [Bold Text Generator (𝐜𝐨𝐩𝐲 & 𝗽𝗮𝘀𝘁𝗲) ― LingoJam](https://lingojam.com/BoldTextGenerator)[^51]
+## [Italic Text Generator (𝘤𝘰𝘱𝘺 𝘢𝘯𝘥 𝘱𝘢𝘴𝘵𝘦) ― LingoJam](https://lingojam.com/ItalicTextGenerator)[^51]
 [^51]: Handy website to convert plain text for display in *Italics*, **Bold**, and ***Bold Italics***
 ## [What's that site running? / Netcraft](https://sitereport.netcraft.com/ )[^52]
 [^52]: Very useful tool to get information on websites. I use this for gathering information on websites that SPAM me. <br />• **GoDaddy has a strict policy that prohibits domain names registered with them from sending SPAM.** **[Report domains registered with GoDaddy](https://supportcenter.godaddy.com/AbuseReport/Index?ci=22420)**. <br />• **Shopify also has a strict policy prohibiting by websites that they host.** **[Report an Issue with a Merchant hosted by Shopify.](https://www.shopify.com/legal/report-aup-violation)**
