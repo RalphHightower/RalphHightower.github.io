@@ -23,7 +23,7 @@ layout: base
 
 <hr />
 
-## Gateway \| [\[ RalphHightower/RalphHightower – Primary Website \]](https://ralphhightower.github.io/RalphHightower/) \| [\[ Ralph Hightower/blog \]](https://ralphhightower.github.io/blog/)
+## Gateway \| [\[ RalphHightower/RalphHightower\]](https://ralphhightower.github.io/RalphHightower/) \| [\[ Ralph Hightower/blog \]](https://ralphhightower.github.io/blog/)
 
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
