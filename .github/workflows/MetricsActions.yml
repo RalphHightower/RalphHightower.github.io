@@ -6,6 +6,9 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main", "_staging", "master"]}
+permissions:
+  contents: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,7 +17,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Harden Runner
+        uses: step-security/harden-runner@cb605e52c26070c328afc4562f0b4ada7618a84e # v2.10.4
+        with:
+          egress-policy: audit
+
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           output: RalphHightowerMetrics.svg
