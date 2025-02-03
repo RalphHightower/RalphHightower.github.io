@@ -1,9 +1,9 @@
 ---
 layout: post
-tags: [anti-Trump]
-categories: [Ralph Hightower Blog]
+tags: [anti-Trump, blog, democracy]
+categories: [Ralph Hightower, Blog]
 date: 2024-11-11 11:11:11
-#excerpt: ''
+#excerpt: “The Apprentice: White House” ended a tumultuous four year season ingloriously on January 6, 2021, at an extraordinary low point in American history when thousands of far-right undesirables, Pride Boys, Zero Percenters, Oath Losers, and Booger Loogies, lay siege on the US Capitol in a vain attempt of insurrection to overthrow a fair election. Cancel the rerun of “The Apprentice: White House – Wrecking Ball 2025”."
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
