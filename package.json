@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "install": "^0.13.0",
-    "npm": "^10.9.0"
+    "npm": "^11.2.0"
   },
   "devDependencies": {
     "@semantic-release/github": "github:semantic-release/github",
