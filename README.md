@@ -72,10 +72,10 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 |[RalphHightower](https://ralphhightower.github.io/RalphHightower/) | Description |
 |---|---|
-| [Ralph Hightower/Blog](https://ralphhightower.github.io/blog/) | My personal blog; currently anti-Trump. Hopefully, *"The Apprentice: White House"* won't get renewed. |
+| [Ralph Hightower/Blog](https://ralphhightower.github.io/blog/) | My personal blog; definitely anti-Trump. **Shit!** The sequel,  *"The Apprentice: Wrecking Ball"* is magnitudes worse than the original, *"The Apprentice: White House"*. What's worse than worse? |
 | [RalphHightower](https://ralphhightower.github.io/RalphHightower/) GitHub Repositories | Primary Website|
 | [Azure-Resources](https://ralphhightower.github.io/Azure-Resources/ )|Useful Documents for Azure|
-| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ )|Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
+| [GM-Canada-OnStar-2G-Sunset](https://ralphhightower.github.io/GM-Canada-OnStar-2G-Sunset/ ) | Canada sunsetted cellular CDMA 2G technology in 2015. GM Canada figured out how to retain OnStar functionality in affected vehicles without using a dongle like GM USA. Documents from [NHTSA (US) nhtsa\.gov](https://www.nhtsa.gov).|
 | [JekyllTestBed](https://ralphhightower.github.io/JekyllTestBed/ ) | Test Bed for Experimentation with Jekyll. |
 | [Sushi](https://ralphhightower.github.io/Sushi/ ) | A place for sushi recipes and checklists for checking off menu items. |
 | [NANPATelephoneFormatDetection](https://ralphhightower.github.io/NANPATelephoneFormatDetection/ )|North American Numbering Plan|
