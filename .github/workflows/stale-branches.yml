@@ -7,6 +7,8 @@ on:
   schedule:
     - cron: '0 6 * * 0'
 
+permissions: {}
+
 jobs:
   stale_branches:
     runs-on: ubuntu-latest
