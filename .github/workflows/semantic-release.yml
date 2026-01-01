@@ -16,7 +16,7 @@
 # under the License.
 
 
-name: symantic-release.yml – Semantic Pull Request
+name: Semantic Pull Request
 
 on:
   pull_request:
