@@ -10,7 +10,7 @@
 #    schedule:
 #      interval: "weekly"
 
-version: 3
+version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
