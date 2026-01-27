@@ -1,6 +1,6 @@
 {
-  "name": "RalphHightower",
-  "description": "Ralph Hightower",
+  "name": "ralphhightower",
+  "description": "Ralph Hightower Collection of Repositories",
   "version": "2.1.0-production",
   "type": "website",
   "author": "Hightower, Ralph <ralph.hightower@gmail.com",
@@ -11,7 +11,7 @@
   },
   "bin": {},
   "bugs": {
-    "url": "https://github.com/RalphHightower/RalphHightower.github.io/issues"
+    "url": "https://github.com/ralphhightower/ralphhightower.github.io/issues"
   },
   "contributors": [
     "ralph.hightower@gmail.com"
@@ -21,8 +21,8 @@
     "npm": "^11.8.0"
   },
   "devDependencies": {
-    "@semantic-release/github": "github:semantic-release/github",
-    "RalphHightower": "github:RalphHightower/Ralphhightower.github.io"
+    "semantic-release": "^25.0.2",
+    "markdownlint-cli2": "^0.20.0"
   },
   "engines": {
     "node": ">=20.8.1"
@@ -61,12 +61,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RalphHightower/Ralphhightower.github.io.git"
+    "url": "git+https://github.com/ralphhightower/Ralphhightower.github.io.git"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
-  "packageManager": "npm@10.8.1"
+  "packageManager": "npm@11.8.0"
 }
