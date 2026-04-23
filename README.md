@@ -26,6 +26,7 @@ layout: base
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
 - [Git manual](https://git-scm.com/)
+- [W3Schools Online Web Tutorials, References](https://www.w3schools.com/)
 
 ### Personality Tests
 
