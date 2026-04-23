@@ -16,8 +16,6 @@ layout: base
 [^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
 ## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
 [^54]: Geolocate IP Addresses and ownership.
-## [URL Expander — Unshorten Any Short URL To A Long URL](https://urlex.org/ )[^56]
-[^55]: Get the expanded URL of any shortened URL without clicking on the link.
 ## [GitHub Status](https://www.githubstatus.com/ )[^55]
 [^56]: Status Check of [GitHub](https://www.github.com/)
 
@@ -28,6 +26,7 @@ layout: base
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
 - [Git manual](https://git-scm.com/)
+- [W3Schools Online Web Tutorials, References](https://www.w3schools.com/)
 
 ### Personality Tests
 
