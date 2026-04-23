@@ -16,7 +16,7 @@ layout: base
 [^53]: [google/libphonenumber: Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.](https://github.com/google/libphonenumber )
 ## [The trusted source for IP address data, leading IP data provider - IPinfo.io](https://ipinfo.io/ )[^54]
 [^54]: Geolocate IP Addresses and ownership.
-## [GitHub Status](https://www.githubstatus.com/ )[^55]
+## [GitHub Status](https://www.githubstatus.com/ )[^56]
 [^56]: Status Check of [GitHub](https://www.github.com/)
 
 <hr />
@@ -26,7 +26,6 @@ layout: base
 [Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ralphhightower)
 
 - [Git manual](https://git-scm.com/)
-- [W3Schools Online Web Tutorials, References](https://www.w3schools.com/)
 
 ### Personality Tests
 
@@ -109,7 +108,7 @@ Photography is another creative endeavor that I have enjoyed since 1980. My firs
 
 |   |
 |---|
-| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)|
+| ![Ralph Hightower Repository’s Stats](https://github-readme-stats.vercel.app/api?username=RalphHightower&show_icons=true&title_color=73000a&text_color=73000a&border_color=73000a&icon_color=73000a&bg_color=ffffff&include_all_commits=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
 | ![GitHub Streak](https://streak-stats.vercel.app?user=RalphHightower&date_format=Y-m-d&border=73000a&stroke=73000a&ring=73000a&fire=73000a&currStreakNum=73000a&sideNums=73000a&currStreakLabel=73000a&sideLabels=73000a&dates=73000a) |
 | ![RalphHightower's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RalphHightower&theme=minimal&color=73000a&title_color=73000a&line=73000a&point=73000a) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RalphHightower&theme=default) |
