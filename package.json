@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "install": "^0.13.0",
-    "npm": "^11.17.0"
+    "npm": "^11.19.1"
   },
   "devDependencies": {
     "semantic-release": "^25.0.2",
